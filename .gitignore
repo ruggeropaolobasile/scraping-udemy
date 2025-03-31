@@ -1,1 +1,44 @@
-appunti.docx
+# Bytecode Python
+__pycache__/
+*.py[cod]
+
+# Ambienti virtuali
+venv/
+.env
+.env.*
+
+# Database locali
+*.db
+*.sqlite3
+
+# Log file
+*.log
+logs/
+
+# Configurazioni di sistema/editor
+.vscode/
+*.code-workspace
+
+# Backup temporanei o copie
+*copy*.py
+*~.py
+
+# Output temporanei o pacchetti
+dist/
+build/
+*.egg-info/
+
+# Estensioni AI / settings locali
+.gpt_history
+~$ppunti.docx
+appunti.txt
+avvia_tutto.bat
+keyword_log.json
+risorse/Basic_LinkedInDataExport_03-26-2025.zip
+risorse/chromedriver-win64.zip
+risorse/Profile.pdf
+risorse/Ruggero Paolo Basile 2025 ITA.pdf
+risorse/topic_udemy_ruggero.csv
+risorse/topic_udemy_validated.csv
+risorse/backup.json
+frontend/frontend/.gitignore
